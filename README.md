@@ -1,6 +1,6 @@
 # Project 3 - Instagram Clone
 
-**Instagram Clone** is a photo sharing app similar to Instagram but using Parse as its backend. 
+**Instagram Clone** is a photo sharing app similar to Instagram but using Parse as its backend 
 
 
 # Part 2
